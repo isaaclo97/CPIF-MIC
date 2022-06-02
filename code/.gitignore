@@ -1,0 +1,9 @@
+.idea
+log.txt
+errors
+target
+CPIF.iml
+*.gz
+*.tmp
+results/
+out/
